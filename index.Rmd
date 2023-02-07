@@ -1,6 +1,6 @@
 ---
 title: "Our Website"
-author: "Matthew"
+author: "Matthew & Georgia"
 date: "2023-02-07"
 output: html_document
 ---
