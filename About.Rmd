@@ -1,0 +1,11 @@
+---
+title: "About"
+author: "Georgia Sauermann"
+date: "2/7/2023"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Welcome to our website
